@@ -397,4 +397,4 @@ def analyze_market():
     # --------------------------------------------------------
 
     daily = data["1D"]
-    four_h =
+    four_h = data["4H"]
